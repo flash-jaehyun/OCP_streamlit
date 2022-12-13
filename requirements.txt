@@ -4,3 +4,4 @@ numpy
 bokeh
 mp_api
 pymatgen
+seaborn
