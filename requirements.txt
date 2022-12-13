@@ -1,1 +1,8 @@
 matplotlib
+seaborn
+numpy
+
+bokeh
+ssl
+mp_api
+pymatgen
