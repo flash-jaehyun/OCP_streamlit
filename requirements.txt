@@ -6,3 +6,4 @@ bokeh
 mp_api
 pymatgen
 ssl
+mpcontribs-client
