@@ -2,7 +2,7 @@ seaborn
 streamlit
 matplotlib
 numpy
-bokeh
+bokeh==2.4.3
 mp_api
 pymatgen
 mpcontribs-client
