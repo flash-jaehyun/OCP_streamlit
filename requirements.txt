@@ -1,6 +1,5 @@
 streamlit
 matplotlib
-seaborn
 numpy
 bokeh
 ssl
